@@ -1,0 +1,25 @@
+## Modelowanie danych 
+Jest to proces tworzenia schematów i podsumowania informacji zebranych w hurtowni danych.
+
+
+## Cardinality 
+określa występowanie unikalnych danych. 
+
+
+## Normalizacja 
+polega na uporządkowaniu danych, usuwając nadmiarowość w danych. Normalizacja przyśpiesza cały proces analizy. 
+
+
+## Denormalizacja 
+wprowadzenie kontrolowanej nadmierności do danych w celu przyspieszenia wykonywania na niej operacji.
+
+
+## Datamart 
+jest hurtownią danych która zawiera dane z konkretego tematu. Cel: szybsze pobieranie danych dla klienta oraz pomoc w podejmowania decyzji w danym temacie.
+
+
+## Online Analytical Processing (OLAP) 
+jest to struktura danych, która pozwala na szybką analizę danych.
+Dane są orzechowywane w postaci przypominającej wielowymiarowe arkusze kalkulacyjne niż klasyczna relacyjna bazę danych. 
+Pozwala na analizę danych z wielu baz danych w tym samym czasie i ekstrakcję interesującej nas części. 
+Rozmieszczenie danych w kostkach pokonuje ograniczenia relacyjnych baz danych. 
